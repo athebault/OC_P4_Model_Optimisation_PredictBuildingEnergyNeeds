@@ -1,4 +1,4 @@
-# OC_Projet4: Anticiper les besoin en consommation des bâtiments
+# Anticiper les besoin en consommation des bâtiments
 Projet 4 de la formation Data Scientist d'Openclassrooms (Mars 2022)
 
 ## Mission
